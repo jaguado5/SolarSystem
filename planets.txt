@@ -1,0 +1,470 @@
+================================================================
+Jupiter
+Adjectives Jovian
+Orbital characteristics
+        Epoch J2000
+        Aphelion 5.458104 AU (816520800 km)
+        Perihelion 4.950429 AU (740573600 km)
+        Semi-major axis 5.204267 AU (778547200 km)
+        Eccentricity 0.048775
+        Orbital period 11.8618 yr 4332.59 d 10475.8 Jovian solar days
+        Synodic period 398.88 d
+        Average orbital speed 13.07 km/s
+        Mean anomaly 18.818°
+        Inclination  1.305° to ecliptic 6.09° to Sun's equator 0.32° to invariable plane
+        Longitude of ascending node 100.492°
+        Argument of perihelion 275.066° Known satellites 67 (as of 2014)
+Physical characteristics
+        Mean radius 69911±6 km
+        Equatorial radius 71492±4 km 11.209 Earths
+        Polar radius 66854±10 km 10.517 Earths
+        Flattening 0.06487±0.00015
+        Surface area 6.1419×1010 km2 121.9 Earths
+        Volume  1.4313×1015 km3 1321.3 Earths
+        Mass 1.8986×1027 kg 317.8 Earths 1/1047 Sun
+        Mean density 1.326 g/cm3
+        Surface gravity 24.79 m/s2 2.528 g
+        Escape velocity 59.5 km/s
+        Sidereal rotation period 9.925 h (9 h 55 m 30 s)
+        Equatorial rotation velocity 12.6 km/s 45300 km/h
+        Axial tilt 3.13° (to orbit)
+        North pole right ascension 268.057° 17h 52m 14s
+        North pole declination 64.496°
+        Albedo 0.343 (Bond) 0.52 (geom.)
+        Surface temp. min mean max
+                1 bar level  165 K (-108 °C)
+                0.1 bar      112 K
+        Apparent magnitude -1.6 to -2.94
+        Angular diameter 29.8? to 50.1? Atmosphere
+        Surface pressure 20–200 kPa (cloud layer)
+        Scale height 27 km
+        Composition by volume
+                89.8±2.0% hydrogen (H2)
+                10.2±2.0% helium (He)
+                ˜?0.3% methane (CH4)
+                ˜?0.026% ammonia (NH3)
+                ˜?0.003% hydrogen deuteride (HD)
+                0.0006% ethane (C2H6)
+                0.0004% water (H2O)
+                Ices:
+                        ammonia (NH3)
+                        water (H2O)
+                        ammonium hydrosulfide (NH4SH)
+================================================================
+Mars
+Adjectives Martian
+Orbital characteristics
+        Epoch J2000
+        Aphelion 1.6660 AU 249.2 million km
+        Perihelion 1.3814 AU 206.7 million km
+        Semi-major axis 1.523679 AU 227,939,100 km
+        Eccentricity 0.0935±0.0001
+        Orbital period 1.8808 Julian years 686.971 d 668.5991 sols
+        Synodic period 779.96 days 2.135 Julian years
+        Average orbital speed 24.077 km/s
+        Mean anomaly 19.3564°
+        Inclination 1.850° to ecliptic 5.65° to Sun's equator 1.67° to invariable plane[1]
+        Longitude of ascending node 49.562°
+        Argument of perihelion 286.537°
+        Satellites 2
+Physical characteristics
+        Mean radius 3389.5±0.2 km
+        Equatorial radius 3396.2±0.1 km  0.533 Earths
+        Polar radius 3,376.2±0.1 km 0.531 Earths
+        Flattening 0.00589±0.00015
+        Surface area 144,798,500 km2  0.284 Earths
+        Volume  1.6318×1011 km3  0.151 Earths
+        Mass 6.4171×1023 kg  0.107 Earths
+        Mean density  3.9335±0.0004 g/cm³
+        Surface gravity  3.711 m/s²  0.376 g
+        Moment of inertia factor  0.3662±0.0017
+        Escape velocity  5.027 km/s
+        Sidereal rotation period  1.025957 d  24h 37m 22s
+        Equatorial rotation velocity  868.22 km/h (241.17 m/s)
+        Axial tilt  25.19° to its orbital plane
+        North pole right ascension  21h 10m 44s  317.68143°
+        North pole declination  52.88650°
+        Albedo 0.170 (geometric) 0.25 (Bond)
+        Surface temp . min   mean  max  
+                Kelvin   130K   210K  308K
+                Celsius -143°C  -63°C  35°C
+        Apparent magnitude  +1.6 to -3.0[9]
+        Angular diameter  3.5–25.1?
+Atmosphere
+        Surface pressure 0.636 (0.4–0.87) kPa
+        Composition by volume
+                95.97% carbon dioxide
+                1.93% argon
+                1.89% nitrogen
+                0.146% oxygen
+                0.0557% carbon monoxide
+                210 ppm water vapor
+                100 ppm nitric oxide
+                15 ppm molecular hydrogen
+                2.5 ppm neon
+                850 ppb HDO
+                300 ppb krypton
+                130 ppb formaldehyde
+                80 ppb xenon
+                18 ppb hydrogen peroxide
+                10 ppb methane
+================================================================
+Saturn
+Adjectives Saturnian, Cronian
+Orbital characteristics
+        Epoch J2000.0
+        Aphelion 10.11595804 AU (1513325783 km)
+        Perihelion 9.04807635 AU(1353572956 km)
+        Semi-major axis 9.5820172 AU (1433449370 km)
+        Eccentricity 0.055723219
+        Orbital period  29.4571 yr 10759.22 d 24491.07 Saturnian solar days
+        Synodic period  378.09 days
+        Average orbital speed  9.69 km/s
+        Mean anomaly  320.3478°
+        Inclination 2.485240° to ecliptic 5.51° to Sun's equator 0.93° to invariable plane
+        Longitude of ascending node  113.642811°
+        Argument of perihelion  336.013862°
+        Known satellites 62 with formal designations; innumerable additional moonlets.
+Physical characteristics
+        Mean radius 58232±6 km
+        Equatorial radius  60268±4 km  9.4492 Earths
+        Polar radius  54364±10 km  8.5521 Earths
+        Flattening 0.09796±0.00018
+        Surface area  4.27×1010 km2  83.703 Earths
+        Volume 8.2713×1014 km3 763.59 Earths
+        Mass 5.6836×1026 kg  95.159 Earths
+        Mean density  0.687 g/cm3  (less than water)
+        Surface gravity  10.44 m/s²  1.065 g
+        Escape velocity  35.5 km/s
+        Sidereal rotation period  10.55 hours  (10 hr 33 min)
+        Equatorial rotation velocity  9.87 km/s  35500 km/h
+        Axial tilt  26.73° (to orbit)
+        North pole right ascension 2h 42m 21s  40.589°
+        North pole declination  83.537°
+        Albedo 0.342 (Bond)  0.47 (geometric)
+        Surface temp. min mean    max
+                1 bar level   134 K (-139°C)
+                0.1 bar        84 K
+        Apparent magnitude +1.47 to -0.24
+        Angular diameter   14.5? to 20.1? (excludes rings)
+Atmosphere
+        Scale height  59.5 km
+        Composition by volume
+                ˜?96% hydrogen (H2)
+                ˜?3% helium (He)
+                ˜?0.4% methane (CH4)
+                ˜?0.01% ammonia (NH3)
+                ˜?0.01% hydrogen deuteride (HD)
+                0.0007% ethane (C2H6)
+        Ices:
+                ammonia (NH3)
+                water (H2O)
+                ammonium hydrosulfide (NH4SH)
+================================================================
+Venus
+Adjectives Venusian or (rarely) Cytherean, Venerean
+Orbital characteristics
+        Epoch J2000
+        Aphelion  0.728213 AU  108939000 km
+        Perihelion 0.718440 AU  107477000 km
+        Semi-major axis  0.723332 AU  108208000 km
+        Eccentricity 0.00677323
+        Orbital period  224.701 d  0.615198 yr  1.92 Venus solar day
+        Synodic period  583.92 days
+        Average orbital speed  35.02 km/s
+        Mean anomaly  50.115°
+        Inclination  3.39458° to ecliptic  3.86° to Sun's equator  2.19° to invariable plane
+        Longitude of ascending node  76.678°
+        Argument of perihelion  55.186°
+        Satellites None
+Physical characteristics
+        Mean radius  6051.8±1.0 km  0.9499 Earths
+        Flattening 0
+        Surface area  4.6023×108 km2  0.902 Earths  
+        Volume 9.2843×1011 km3  0.866 Earths
+        Mass 4.8675×1024 kg  0.815 Earths
+        Mean density  5.243 g/cm3
+        Surface gravity  8.87 m/s2  0.904 g
+        Escape velocity  10.36 km/s (6.44 mi/s)
+        Sidereal rotation period  -243.025 d (retrograde)
+        Equatorial rotation velocity  6.52 km/h (1.81 m/s)[citation needed]
+        Axial tilt  2.64° (for retrograde rotation)  177.36° (to orbit)[2][note 1]  
+        North pole right ascension  18h 11m 2s  272.76°
+        North pole declination  67.16°
+        Albedo 0.67 (geometric)  0.90 (Bond)
+        Surface temp. min  mean max
+                Kelvin        737K
+                Celsius       462°C  
+        Apparent magnitude brightest -4.9 (crescent) -3.8 (full)
+        Angular diameter  9.7? to 66.0?
+Atmosphere
+        Surface pressure  92 bar (9.2 MPa)
+        Composition by volume
+                ˜?96.5% carbon dioxide
+                ˜?3.5% nitrogen
+                0.015% sulfur dioxide
+                0.007% argon
+                0.002% water vapour
+                0.0017% carbon monoxide
+                0.0012% helium
+                0.0007% neon
+                trace carbonyl sulfide
+                trace hydrogen chloride
+                trace hydrogen fluoride
+================================================================
+Mercury
+Adjectives Mercurian, Hermian
+Orbital characteristics
+        Epoch J2000
+        Aphelion  0.466 697 AU  69,816,900 km
+        Perihelion  0.307 499 AU  46,001,200 km
+        Semi-major axis  0.387 098 AU  57,909,050 km
+        Eccentricity 0.205 630
+        Orbital period  87.969 1 d  0.240 846 yr  0.5 Mercury solar day
+        Synodic period  115.88 d
+        Average orbital speed  47.362 km/s
+        Mean anomaly  174.796°
+        Inclination  7.005° to ecliptic 3.38° to Sun's equator  6.34° to invariable plane
+        Longitude of ascending node  48.331°
+        Argument of perihelion  29.124°
+        Satellites None
+Physical characteristics
+        Mean radius  2439.7±1.0 km  0.3829 Earths
+        Flattening 0
+        Surface area  7.48×107 km2 0.147 Earths
+        Volume  6.083×1010 km3  0.056 Earths
+        Mass 3.3011×1023 kg  0.055 Earths
+        Mean density  5.427 g/cm3
+        Surface gravity  3.7 m/s2  0.38 g
+        Moment of inertia factor  0.346±0.014
+        Escape velocity  4.25 km/s
+        Sidereal rotation period  58.646 d  1407.5 h
+        Equatorial rotation velocity  10.892 km/h (3.026 m/s)
+        Axial tilt  2.04' ± 0.08' (to orbit)  (0.034°)
+        North pole right ascension  18h 44m 2s  281.01°
+        North pole declination  61.45°
+        Albedo  0.068 (Bond)  0.142 (geom.)
+        Surface temp.  min  mean max
+                 0°N, 0°W 100K 340K 700K
+                85°N, 0°W  80K 200K 380K
+        Apparent magnitude -2.6 to 5.7
+        Angular diameter  4.5–13?
+Atmosphere
+        Surface pressure trace
+        Composition by volume
+                42% molecular oxygen
+                29.0% sodium
+                22.0% hydrogen
+                6.0% helium
+                0.5% potassium
+                Trace amounts of argon, nitrogen, carbon dioxide, water vapor, xenon, krypton, and neon
+================================================================
+Earth
+Orbital characteristics
+        Epoch J2000[n 1]
+        Aphelion 151930000 km (1.01559 AU)
+        Perihelion 147095000 km (0.9832687 AU)
+        Semi-major axis  149598261 km  (1.00000261 AU)
+        Eccentricity 0.01671123
+        Orbital period  365.256363004 d  (1.00001742096 yr)
+        Average orbital speed  29.78 km/s  (107200 km/h)
+        Mean anomaly  358.617 deg
+        Inclination  
+                7.155 deg to Sun's equator;
+                1.57869 deg to invariable plane;
+                0.00005 deg to J2000 ecliptic
+        Longitude of ascending node  -11.26064 deg to J2000 ecliptic
+        Argument of perihelion  102.94719 deg
+        Satellites  One natural satellite; 1265 operational artificial satellites
+Physical characteristics
+        Mean radius  6371.0 km
+        Equatorial radius  6378.1 km
+        Polar radius  6356.8 km
+        Flattening 0.0033528  1/298.257222101 (ETRS89)
+        Circumference 40075.017 km (equatorial)  40007.86 km (meridional)
+        Surface area  510072000 km2  (148940000 km2 (29.2%) land  361132000 km2 (70.8%) water)
+        Volume 1.08321×1012 km3
+        Mass  5.97237×1024 kg  (3.0×10-6 solar mass)
+        Mean density  5.514 g/cm3
+        Surface gravity  9.807 m/s2 (1 g)
+        Moment of inertia factor  0.3307
+        Escape velocity  11.186 km/s
+        Sidereal rotation period  0.99726968 d  (23h 56m 4.100s)
+        Equatorial rotation velocity  1,674.4 km/h (465.1 m/s)
+        Axial tilt  23.4392811°
+        Albedo   0.367 geometric  0.306 Bond
+        Surface temp. min  mean  max
+                Kelvin   184K   288K 330K
+                Celsius  -89.2°C 15°C 56.7°C
+Atmosphere
+        Surface pressure  101.325 kPa (at MSL)
+        Composition by volume
+                78.08% nitrogen (N2) (dry air)
+                20.95% oxygen (O2)
+                0.930% argon
+                0.039% carbon dioxide
+                ~1% water vapor (climate-variable)
+================================================================
+Uranus
+Discovery
+        Discovered by William Herschel
+        Discovery date March 13, 1781
+Adjectives Uranian
+Orbital characteristics
+        Epoch J2000
+        Aphelion 20.095371 AU  (3006224700 km)
+        Perihelion 18.283135 AU  (2735118100 km)
+        Semi-major axis  19.189253 AU  (2870671400 km)
+        Eccentricity 0.047220087
+        Orbital period  84.016846 yr  30687.15 d  42718 Uranian solar days
+        Synodic period  369.66 days
+        Average orbital speed  6.80 km/s
+        Mean anomaly  142.238600°
+        Inclination
+                0.772556° to ecliptic
+                6.48° to Sun's equator
+                1.02° to invariable plane
+        Longitude of ascending node  73.999342°
+        Argument of perihelion  96.998857°
+        Known satellites 27
+Physical characteristics
+        Mean radius  25362±7 km
+        Equatorial radius  25559±4 km  4.007 Earths
+        Polar radius  24973±20 km  3.929 Earths
+        Flattening 0.0229±0.0008[c]
+        Circumference 159354.1 km
+        Surface area  8.1156×109 km2  15.91 Earths
+        Volume 6.833×1013 km3  63.086 Earths
+        Mass (8.6810±0.0013)×1025 kg  14.536 Earths  GM=5793939±13 km3/s2
+        Mean density  1.27 g/cm3
+        Surface gravity  8.69 m/s2  0.886 g
+        Escape velocity  21.3 km/s
+        Sidereal rotation period  0.71833 d  17 h 14 min 24 s
+        Equatorial rotation velocity  2.59 km/s  9,320 km/h
+        Axial tilt  97.77° (to orbit)
+        North pole right ascension  17h 9m 15s  257.311°
+        North pole declination  -15.175°
+        Albedo 0.300 (Bond)  0.51 (geom.)
+        Surface temp.            min mean             max
+                1 bar level              76K (-197.2°C)  
+                0.1 bar (tropopause) 47K 53K              57K
+        Apparent magnitude  5.9 to 5.32
+        Angular diameter  3.3? to 4.1?
+Atmosphere
+        Scale height 27.7 km
+        Composition by volume  (Below 1.3 bar)
+                Gases:
+                        83 ± 3% hydrogen (H2)
+                        15 ± 3% helium (He)
+                        2.3% methane (CH4)
+                        0.009% (0.007–0.015%) hydrogen deuteride (HD)
+                Ices:
+                        ammonia
+                        water
+                        ammonium hydrosulfide
+                        methane hydrate
+================================================================
+Neptune
+Discovery
+        Discovered by Urbain Le Verrier, Johann Galle
+        Discovery date 23 September 1846
+Adjectives Neptunian
+Orbital characteristics
+        Epoch J2000
+        Aphelion 30.331855 AU  (4537580900 km)
+        Perihelion 29.809946 AU (4459504400 km)
+        Semi-major axis  30.070900 AU (4498542600 km)
+        Eccentricity 0.00867797
+        Orbital period  164.8 yr  60190.03 d  89666 Neptunian solar days
+        Synodic period  367.49 days
+        Average orbital speed  5.43 km/s
+        Mean anomaly  259.885588°
+        Inclination
+                1.767975° to ecliptic
+                6.43° to Sun's equator
+                0.72° to invariable plane
+        Longitude of ascending node  131.782974°
+        Argument of perihelion  273.219414°
+        Known satellites 14
+Physical characteristics
+        Mean radius  24622±19 km
+        Equatorial radius  24764±15 km  3.883 Earths
+        Polar radius  24341±30 km  3.829 Earths
+        Flattening 0.0171±0.0013
+        Surface area  7.6183×109 km2  14.98 Earths
+        Volume 6.254×1013 km3  57.74 Earths
+        Mass 1.0243×1026 kg  17.147 Earths  5.15×10-5 Suns
+        Mean density  1.638 g/cm3
+        Surface gravity  11.15 m/s2  1.14 g
+        Escape velocity  23.5 km/s
+        Sidereal rotation period  0.6713 day  16 h 6 min 36 s
+        Equatorial rotation velocity  2.68 km/s  9660 km/h
+        Axial tilt  28.32° (to orbit)
+        North pole right ascension  19h 57m 20s  299.3°
+        North pole declination  42.950°
+        Albedo   0.290 (bond)  0.41 (geom.)
+        Surface temp.       min mean           max
+                1 bar level         72K (-201°C)
+                0.1 bar (10 kPa)    55K
+        Apparent magnitude  8.02 to 7.78
+        Angular diameter  2.2–2.4
+Atmosphere
+        Scale height  19.7 ± 0.6 km
+        Composition by volume
+                80 ± 3.2% hydrogen (H2)
+                19 ± 3.2% helium (He)
+                1.5 ± 0.5% methane (CH4)
+                ~0.019% hydrogen deuteride (HD)
+                ~0.00015% ethane (C2H6)
+                Ices:
+                        ammonia (NH3)
+                        water (H2O)
+                        ammonium hydrosulfide (NH4SH)
+                        methane ice (?) (CH4•5.75H2O)
+================================================================
+Pluto
+Discovery
+        Discovered by Clyde W. Tombaugh
+        Discovery date 18 February 1930
+Designations
+        MPC designation 134340 Pluto
+        Named after Pluto
+        Minor planet category  Dwarf planet  Trans-Neptunian object  Plutoid  Kuiper belt object  Plutino
+        Adjectives  Plutonian
+Orbital characteristics
+        Epoch J2000
+        Aphelion  49.319 AU  (7311000000 km)
+        Perihelion  29.656 AU  (4437000000 km)  (5 September 1989)
+        Semi-major axis  39.487 AU  (5874000000 km)
+        Eccentricity 0.24897
+        Orbital period  247.94 years  90570 d  14164.4 Plutonian solar days
+        Synodic period  366.73 days
+        Average orbital speed  4.67 km/s
+        Mean anomaly  14.85 deg
+        Inclination  17.1405° (11.88° to Sun's equator)
+        Longitude of ascending node  110.301°
+        Argument of perihelion  113.777°
+        Known satellites 5
+Physical characteristics
+        Mean radius  1186±2 km[5]  0.18 Earths
+        Surface area  1.77×107 km2  0.035 Earths
+        Volume   6.99×109 km3  0.0064 Earths
+        Mass   (1.305±0.007)×1022 kg  0.0022 Earths  0.178 Moons
+        Mean density  1.87±0.02 g/cm3  
+        Surface gravity  0.620 m/s2  0.063 g
+        Escape velocity  1.212 km/s
+        Sidereal rotation period  6.387230 d  6 d, 9 h, 17 m, 36 s
+        Equatorial rotation velocity  47.18 km/h
+        Axial tilt  119.591°±0.014° (to orbit)
+        North pole right ascension  132.993°
+        North pole declination  -6.163°
+        Albedo 0.49 to 0.66 (geometric, varies by 35%)
+        Surface temp. min  mean        max
+                Kelvin    33K 44K (-229°C) 55K
+        Apparent magnitude 13.65 to 16.3 (mean is 15.1)
+        Absolute magnitude (H) -0.7
+        Angular diameter  0.06? to 0.11?
+Atmosphere
+        Surface pressure  0.30 Pa (summer maximum) to 1.0 Pa
+        Composition by volume Nitrogen, methane, carbon monoxide
+================================================================

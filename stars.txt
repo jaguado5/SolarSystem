@@ -1,0 +1,52 @@
+================================================================
+Sun
+Observation data
+        Mean distance from Earth 1.496×108 km   8 min 19 s at light speed
+        Visual brightness (V) -26.74
+        Absolute magnitude 4.83
+        Spectral classification G2V
+        Metallicity Z = 0.0122
+        Angular size 31.6–32.7'
+        Adjectives Solar
+Orbital characteristics
+        Mean distance from Milky Way core ˜?2.7×1017 km  27200 light-years
+        Galactic period (2.25–2.50)×108 a
+        Velocity
+                ˜?220 km/s (orbit around the center of the Milky Way)
+                ˜?20 km/s (relative to average velocity of other stars in stellar neighborhood)
+                ˜?370 km/s (relative to the cosmic microwave background)
+Physical characteristics
+        Equatorial radius 696342±65 km  109 × Earth
+        Equatorial circumference 4.379×106 km 109 × Earth
+        Flattening 9×10-6
+        Surface area 6.09×1012 km2  12000 × Earth
+        Volume 1.41×1018 km3  1300000 × Earth
+        Mass (1.98855±0.00025)×1030 kg  333000 × Earth
+        Average density 1.408 g/cm3  0.255 × Earth
+        Center density (modeled) 162.2 g/cm3  12.4 × Earth
+        Equatorial surface gravity 274.0 m/s2  27.94 g  27542.29 cgs  28 × Earth
+        Escape velocity  (from the surface) 617.7 km/s  55 × Earth
+        Temperature Center (modeled): 1.57×107 K
+                Photosphere (effective): 5778 K
+                Corona: ˜?5×106 K
+        Luminosity (Lsol) 3.846×1026 W   ˜?3.75×1028 lm  ˜?98 lm/W efficacy
+        Mean radiance (Isol) 2.009×107 W·m-2·sr-1
+        Age ˜4.6 billion years
+Rotation characteristics
+        Obliquity 7.25° (to the ecliptic)  67.23°  (to the galactic plane)
+        Right ascension of North pole 286.13°  19 h 4 min 30 s
+        Declination of North pole +63.87°  63° 52' North
+        Sidereal rotation period (at equator) 25.05 days (at 16° latitude) 25.38 days  25 d 9 h 7 min 12 s (at poles) 34.4 days
+        Rotation velocity (at equator) 7.189×103 km/h
+Photospheric composition (by mass)
+        Hydrogen 73.46%
+        Helium 24.85%
+        Oxygen 0.77%
+        Carbon 0.29%
+        Iron 0.16%
+        Neon 0.12%
+        Nitrogen 0.09%
+        Silicon 0.07%
+        Magnesium 0.05%
+        Sulfur 0.04%
+================================================================
